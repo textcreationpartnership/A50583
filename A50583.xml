@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The memoires of Titus Oates written for publick satisfaction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50583</idno>
+            <idno type="STC">Wing M1674</idno>
+            <idno type="STC">ESTC R15134</idno>
+            <idno type="EEBO-CITATION">12950421</idno>
+            <idno type="OCLC">ocm 12950421</idno>
+            <idno type="VID">95880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95880)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 720:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The memoires of Titus Oates written for publick satisfaction.</title>
+               </titleStmt>
+               <extent>[5], 5-14 p. : ports.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Graves,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:95880:1"/>
+            <p>
+               <figure>
+                  <p>TITUS OATES.</p>
+                  <p>WILLIAM BEDLOE.</p>
+                  <p>Stephen Dugdale.</p>
+                  <p>Miles Prance.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:95880:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE MEMOIRES OF Titus Oates.</hi>
+            </p>
+            <p>
+               <hi>Written for Publick Satisfaction.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>Oates, Bedlow, Dugdale, Prance;</hi> whoſe Breath alone,</l>
+               <l>Cou'd almoſt States ſubvert, and Kings dethrone!</l>
+               <l>To ſculp their <hi>Shadow's</hi> in the Pow'r of Art:</l>
+               <l>Ink may be black enough to act that Part.</l>
+               <l>Drawn to the Life would you their <hi>Souls</hi> behold,</l>
+               <l>That Work requires a more Infernal Mould.</l>
+            </lg>
+            <p>LONDON, <hi>Printed for</hi> Thomas Graves, <hi>1685.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:95880:2"/>
+            <pb facs="tcp:95880:2"/>
+            <head>THE PREFACE.</head>
+            <p>THE great and wonderful Exploits of our Hero <hi>Titus,</hi> have ſo far out-done the Feats of <hi>Sancho Pancha</hi> himſelf, that the very Atcheivments even of a <hi>Ga<g ref="char:EOLhyphen"/>rantua,</hi> will bear a fairer Appearance of <hi>Hiſtory</hi> and <hi>Truth,</hi> than the more <hi>Romantick Narrative</hi> of our Great and For<g ref="char:EOLhyphen"/>midable <hi>Salamanca Diſcoverer.</hi> For, truly to conſider how ſtrangely powerful, the Infatuations even of almoſt three whole Kingdoms have been, in repoſing ſuch implicite Faith in a Diſcovery made up of ſo many Incongruities, Incon<g ref="char:EOLhyphen"/>ſiſtencies and palpable Contradictions, as are all along through the Depoſitions of the pretended <hi>Popiſh-Plot,</hi> is enough to make the <hi>Engliſh</hi> Credulity ſo univerſally ridiculous, that all Chriſtendom ſhall bluſh at us; and our very Posterity ſhall be ſo much aſhamed of their Forefathers Folleys, and ſtupidity; till future Generations, even for their own Repu<g ref="char:EOLhyphen"/>tation, ſhall as zealouſly indeavour to cover and conceal this moſt Egregious Blindſide of their beſotted Progenitors, as ever <hi>Shem</hi> and <hi>Japhet</hi> did the Nakedneſs of their Fa<g ref="char:EOLhyphen"/>ther.</p>
+            <p>But becauſe Juſtice has at laſt in ſome part overtaken him, and <hi>Frydays</hi> and <hi>Saturdays</hi> Inquiſition into the Inno<g ref="char:EOLhyphen"/>cent Blood, that that Barbarous Wretch has ſo ſolemnly
+<pb facs="tcp:95880:3"/>murdered, has ſet forth the Perjured Murtherer in ſome of his true infernal Colours; I have thought fit to Publiſh theſe farther Memoires of that ever execrable Fardle of Imposture and Perjury, his pretended Diſcovery of the <hi>Popiſh Plot.</hi> And the reaſon of this undertaking is, that notwithſtand<g ref="char:EOLhyphen"/>ing the two laſt Tryals have made his Shams and Lies ſo no<g ref="char:EOLhyphen"/>toriouſly apparent, as to make him truly deſerve the <hi>Lord Chief Juſtices</hi> proper character of him of being certainly the Blackeſt of Villains that ever lived upon the face of the Earth, and thoſe two Limbs of his Plot, his Conſult, on the <hi>24th</hi> of <hi>April,</hi> and the <hi>Auguſt</hi> following, have ſufficiently aſ<g ref="char:EOLhyphen"/>ſured us that all the reſt of his Diſcoveryes are but Bran<g ref="char:EOLhyphen"/>ches of the ſame damnable Stock: whilſt the ſame vein of per<g ref="char:EOLhyphen"/>jury runs thro' the whole Maſs of his Helliſh Lies and Narra<g ref="char:EOLhyphen"/>tives; yet becauſe the Univerſall ſpirit of Deluſion is ſuch, that too many of our Engliſh Fools are as fond of their own ſenceleſs Dreams as of their very Bibles themſelves; and no doubt there are yet thouſands of thoſe unthinking, unconverted Animals, that have that veneration ſtill for their Darling <hi>Titus,</hi> that they pay him even a wild <hi>Indian</hi> Adoration, and make a God of the Devil himſelf, it will not be amiſs to examine a few more parti<g ref="char:EOLhyphen"/>culars, by way of enquiry into the moſt important Foundation of his whole Plot, and ſhew what Nonſenſe and Chymeras have been impoſed upon the World.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:95880:3"/>
+            <head>
+               <hi>Titus Oates</hi> HIS MEMOIRES.</head>
+            <p>THe Popiſh Plot, as delivered by <hi>Titus Oates,</hi> and the reſt of his <hi>Zanies, Bedlow, Dugdale, Prance,</hi> &amp;c. is wholly founded on theſe two Baſes:</p>
+            <p>
+               <hi>Firſt,</hi> That the Papiſts had a Deſigne to Murder the late King;</p>
+            <p>And next, to Maſſacre Us; Popery being only to be introduced by theſe two Deſperate and bloody under<g ref="char:EOLhyphen"/>takings.</p>
+            <p>The ſeveral Attempts and Deſignes of Murdering the King are as follows.</p>
+            <p>The Firſt Bloody Reſolve of the Papiſts for that pur<g ref="char:EOLhyphen"/>poſe, was on the 24th. of <hi>April</hi> in the Year 78, whilſt <hi>Oates</hi> upon the Holy <hi>Evangeliſts,</hi> aſſures us, that the Principal of the <hi>Jeſuites,</hi> and other great Popiſh Agents, to the number of above fifty, from ſeveral parts of the World met together on that day, and came to this Reſolve; That <hi>Pickering</hi> and <hi>Groves</hi> ſhould go on with their Attempt of Murdering the King, for which the one ſhould have 1500 <abbr>
+                  <hi>l.</hi>
+               </abbr> and the other 30000 Maſſes: to which Reſolve and
+<pb n="6" facs="tcp:95880:4"/>promiſe, they all at ſeveral places ſubſcribed their ſeve<g ref="char:EOLhyphen"/>ral hands.</p>
+            <p>Now we are to know likewiſe who thoſe two Perſons were, that were thus ſet at work, <hi>viz.</hi> Two poor Servants &amp; Retainers to the <hi>Romiſh</hi> Prieſts, &amp; two Perſons, who had been before engaged in the ſame Deſign, &amp; had dogg'd the King (by <hi>Oates</hi> his own Oath) from the year Seventy to that very day, with ſcrewed Guns and Silver Bullets to do the ſame Execution; and were two ſuch Wretched Fools at ſo deſperate a peice of ſervice, that one time their Flint was looſe; another time, their Gun was charg<g ref="char:EOLhyphen"/>ed with all Bullets and no Powder; another, with no Pow<g ref="char:EOLhyphen"/>der in the Pan; and another, with all Powder and no Bullets. Yet nevertheleſs, after they had alwayes miſcar<g ref="char:EOLhyphen"/>ryed at this egregious ſenſeleſs Rate, and had been diſci<g ref="char:EOLhyphen"/>plined ſeverely for it. Here meets a conſult of <hi>Jeſuits</hi> from all Quarters of <hi>Europe,</hi> and after a full Debate upon ſo Im<g ref="char:EOLhyphen"/>portant a point to their Grand Deſigne, as the Immediate Murder of the King: they come to no other Reſult than that theſe two poor Cuddens, after above ſeven Years fumbling before, ſhould go on with the Attempt, without ſo much as engageing one hand beſide in the Conſpiracy (:for all the other Aſſaſſionates were not Embarked in the Deſign, till <hi>Auguſt</hi> following) ſo that, had <hi>Oates</hi> been able to have pro<g ref="char:EOLhyphen"/>ved himſelf here in Town at the <hi>April</hi>-Conſult, neverthe<g ref="char:EOLhyphen"/>leſs, his Great <hi>April</hi>-Plot muſt ſtill have fallen to the ground, and conſequently, all the Blood of the Executed Papiſts have cryed for Vengeance from ſo Perjured a Murderer; unleſs we can imagine, that ſo many Popiſh Emiſſaries, the great<g ref="char:EOLhyphen"/>eſt of all the <hi>Romiſh</hi> Politicians, could be guilty of ſo ridi<g ref="char:EOLhyphen"/>culous a Management.</p>
+            <p>Beſides, as the ſequel of this King-killing-Blow, <hi>Oates</hi> particularly ſwears, That no ſooner was the King to have
+<pb n="7" facs="tcp:95880:4"/>fallen, but both the <hi>Spaniſh</hi> Pilgrims, thirty thouſand ſtrong, and a <hi>French</hi> Army beſides were prepared to Land, and follow the Blow by Joyning with the <hi>Engliſh</hi> Papiſts al<g ref="char:EOLhyphen"/>ready liſted for that purpoſe, and cutting the Proteſtants Throats; ſo that upon the upſhot of the whole matter, unleſs we can ſuppoſe, that the <hi>French</hi> and <hi>Spaniſh</hi> Kings had their Pilgrims and Armies, and a Fleet ready to land 'em all prepared for ſeven whole Years together Winter or Summer, to ſtep over the Water, to nick the Buſineſs, and proſecute the Maſſacre upon the criſis of the Kings Murder, the whole Conſpiracy comes to nothing.</p>
+            <p>Beſides, we muſt pardon Mr. <hi>Oates</hi> his forgetfulneſs in ſe<g ref="char:EOLhyphen"/>veral main paſſages of <hi>Pickerings</hi> Atchievement; <hi>Firſt,</hi> That in his Narrative he expreſly upon Oath, Aſſignes the time of <hi>Pickerings</hi> flint being looſe, and his being laſht for it, to be in <hi>January,</hi> 77. but at his Tryal he poſſitively ſwears it was done in <hi>April</hi> 78. <hi>Secondly,</hi> We muſt not be ſtag<g ref="char:EOLhyphen"/>gered to imagine how a Fellow in ſo open a place as St. <hi>James's-Park</hi> could preſent a Gun againſt the King, and flaſh in the very Pan (as another time he ſwears for <hi>Pickering</hi>) and yet neither the King nor one of his Attendants diſco<g ref="char:EOLhyphen"/>ver him. Neither are we to reflect, how 'tis utterly im<g ref="char:EOLhyphen"/>poſſible to ſhoot a Silver Bullet out of a ſcrewed Gun, Sil<g ref="char:EOLhyphen"/>ver being too hard a mettal ever to be diſcharged without tearing the Gun all to Peices.</p>
+            <p>For the Hiſtory of his other Popiſh Ruffins, his <hi>Conyers</hi> with his Dagger, his four <hi>Iriſh</hi> Ruffins, (by the by, all Gentlemen of Quality and Fortunes, and yet all hired for ſo bold an attempt, as ſhooting the King, for but poor fourſcore pounds between them, when the little inconſiderable Wretch <hi>Groves,</hi> was to be rewarded with no leſs than 1500 <abbr>
+                  <hi>l.</hi>
+               </abbr>) For the Hiſtory I ſay of theſe Aſſaſſinates, and Sir <hi>George Wakemans</hi> Affair, they were altogether a Maſs
+<pb n="8" facs="tcp:95880:5"/>of nonſence ſo nauſeouſly fulſom, that even the all-believ<g ref="char:EOLhyphen"/>ing <hi>Whiggs</hi> themſelves, in the very hotteſt Dog-dayes of true Proteſtant Zeal and Euthuſiaſm turn'd ſtomack at; in<g ref="char:EOLhyphen"/>ſomuch, that the terrible Poyſoner Sir <hi>George</hi> himſelf was acquitted even by a <hi>Whigg</hi> Jury: In Defiance of all the Popiſh Fears and Jealouſies, which in that time of the World were no leſs than Mountain High.</p>
+            <p>But to muſter the ſtrength of all theſe laſt undertakers, and indeed, the whole force of his whole Plot it ſelf. In his Preface to his Narrative, he tells the World, that he diſcovered his Plot firſt to His Majeſty, by the introducti<g ref="char:EOLhyphen"/>on of Mr. <hi>Christopher Kirby</hi> on the 13th. of <hi>Auguſt</hi> 78. At which time you muſt note, he brought no other creden<g ref="char:EOLhyphen"/>tials to ſupport his Plot, but Words and Forehead, Oath and Impudence, being utterly unable to produce the leaſt ſcrap of one of all his numberleſs pretended Treaſonable Papers, Letters, or Commiſſions, to Corroborate his Evi<g ref="char:EOLhyphen"/>dence; notwithſtanding his Narrative aſſures us, that the <hi>Jeſuits</hi> had long before wrought the King almoſt to an ut<g ref="char:EOLhyphen"/>ter Deafneſs and Infidelity, againſt all Informations what<g ref="char:EOLhyphen"/>ever againſt them, and conſequently, his preſerving of ſome of thoſe undeniable Records againſt them, all intruſted in his Hands, was the only neceſſary Introduction to the Cre<g ref="char:EOLhyphen"/>dit and ſupport of his whole Diſcovery.</p>
+            <p>But however, tho' not one ſyllable of any thing of that Kind, was ever ſeen or brought forth from that day to this, and the only lame Excuſe that can help him, is, to ſay, Truly whilſt he plotted with them he was one of them, &amp; therefore did not ſeek to preſerve any ſuch Convincing Pa<g ref="char:EOLhyphen"/>pers or Commiſſion: Tho' by the by, it looks a little odd in one of his Trialls, where he downright ſwears, he was a Proteſtant all along, and diſguis'd himſelf a Papiſt only to herd with them to betray them. But let that paſs.</p>
+            <p>
+               <pb n="9" facs="tcp:95880:5"/>
+The Prodigious overſight and negligence of our Diſ<g ref="char:EOLhyphen"/>coverer in this Point, being forgiven him for once: How comes it to paſs, nevertheleſs that after that very 13th. Day of <hi>Auguſt,</hi> when he return'd again to the <hi>Jeſuits,</hi> and plotted with them once more, only as a Spy and a Trapan, to take an opportunity of betraying them; when after that very day, he delivered out ſeveral new Com<g ref="char:EOLhyphen"/>miſſions, met alſo at a conſult of the <hi>Benedictines,</hi> and carryed their Subſcribed Reſolve of Murdering the King, to a ſecond conſult of the <hi>Carmelites</hi> for to ſign it; met likewiſe another time <hi>Conyers</hi> with his Broad Dagger in <hi>Grays-Inn-Walks,</hi> and <hi>Pickering</hi> with his Basket of Fire-Balls at noon day in <hi>Lincolns-Inn-Fields,</hi> when he ſaw <hi>Coleman</hi> diſpatch the Meſſenger to the four <hi>Iriſh</hi> Ruf<g ref="char:EOLhyphen"/>fins: Nay and all the whole buſineſs of Sir <hi>George Wake<g ref="char:EOLhyphen"/>man</hi> was all acted after that Day; when in fine no leſs then thirty Paragraphs in his Narrative containing the very hotteſt part of his whole Plot, were all Tranſacti<g ref="char:EOLhyphen"/>ons after this firſt Diſcovery to the King: How comes it to paſs, I ſay, after his cold Reception at Court, and the Kings ſo obdurate Incredulity, that our Adventurer ſhould ſet out a Treaſon hunting once more, for no o<g ref="char:EOLhyphen"/>ther deſign but for proof and Demonſtrations, and <hi>Ocular Teſtimonials;</hi> and yet after all theſe offerd advantages of both Conſpirators and Conſpiracies, Traitors and Treaſo<g ref="char:EOLhyphen"/>nable Records in his Power, he ſhould ſtill come to Sir <hi>Edmund-Bury-Godfrey,</hi> the <hi>September</hi> following, with his full and compleat Popiſh Manifeſto, and yet without one ſcrap of Commiſſions, Papers, Reſolves, <hi>&amp;c.</hi> and with only his Old <hi>Jargon,</hi> Breath and words, noyſe and Oaths for the ſupport of his pretended Oraculous Diſco<g ref="char:EOLhyphen"/>very. Good Heaven! How wide was the <hi>Engliſh</hi> ſwal<g ref="char:EOLhyphen"/>low?
+<pb n="10" facs="tcp:95880:6"/>When ſuch idle ridiculous ſtuff could go down.</p>
+            <p>But to leave the Kingkilling part of his Plot, and take a little view of his Proteſtant Throat Cutting, <hi>viz.</hi> The ſecond Act of his Popiſh Tragedy.</p>
+            <p>Here we muſt returne to his <hi>Spaniſh</hi> Pilgrims, his <hi>Black Bills,</hi> and his <hi>French Armies</hi> before mentioned together with the Armies of <hi>Engliſh</hi> Papiſts deſignd to be raiſed, to joyn with them. And to begin at home, here was the Lord <hi>Bellaſis,</hi> and the Lord <hi>Petre,</hi> and a great many other of the greateſt <hi>Roman Catholik's</hi> had Commiſſions de<g ref="char:EOLhyphen"/>liverd them to be Generals, Livetenant Generals, and ſo downwards to Collonels and Captains, <hi>&amp;c.</hi> Over ſeve<g ref="char:EOLhyphen"/>rals Popiſh Armies intended to be raiſed to ſubdue <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to the <hi>Romiſh</hi> Yoke.</p>
+            <p>Now here are a great many very odd things in this projection. <hi>First,</hi> 'Tis wondrous, that the <hi>Jeſuites</hi> and the Head <hi>Plotters</hi> of the <hi>Papiſts</hi> were ſo Cockſure of the Fidelity of their whole Party; that they durſt hope to liſt ſo many Thouſands of <hi>Roman Catholicks,</hi> (nay had liſted them, if <hi>Bedloe</hi> may be believed, being all ready to riſe at four and twenty hours warning) and not have one falſe Brother amongſt them all, to betray ſo bar<g ref="char:EOLhyphen"/>barous, and ſo Rebellious an Undertaking. There was a time when Thouſands of that Religion ventured both Lives and Fortunes to recover the Kings Right againſt uſurping Traytors; with ſcarce one Diſſenter amongſt the whole Party, againſt ſo Loyal a Cauſe; and 'tis a very ſtrange change, that in a matter of thirty odd Years, they ſhould all be ſo Univerſally perverted to the Depoſing and Murdering him, as not to meet ſo much as one <hi>Pendril</hi> or one <hi>Huddleſton</hi> amongſt ſo ma<g ref="char:EOLhyphen"/>ny thouſand, (as this Army was to conſiſt of) that might
+<pb n="11" facs="tcp:95880:6"/>probably have told tales beforehand, and, betray'd ſo Wicked and ſo Helliſh a purpoſe, and thereby not on<g ref="char:EOLhyphen"/>ly have ruin'd the whole Plot, but the whole Party be<g ref="char:EOLhyphen"/>ſides.</p>
+            <p>
+               <hi>Secondly,</hi> We are to take notice, 'twas in <hi>May, June, July,</hi> and <hi>Auguſt</hi> 78. That <hi>Oates</hi> atteſts his delivery of Commiſſions for the pretended Popiſh Armies. And on the ſucceſs of theſe Armies aſſiſted by the Forreighn Popiſh Auxiliaries before mentioned depended the whole fortune of the <hi>Romiſh</hi> Cauſe, Popery being wholy to be Eſtabliſhſt by Military Execution. And yet as the De<g ref="char:EOLhyphen"/>vil and the Doctor would have it, <hi>Pickering</hi> and <hi>Groves,</hi> as you have been told before had been ſeven years to<g ref="char:EOLhyphen"/>gether at the Kings very Throat, nay and the Great re<g ref="char:EOLhyphen"/>wards of 1500 <abbr>
+                  <hi>ll</hi>
+               </abbr> and 30000 Maſſes, together with <hi>Pick<g ref="char:EOLhyphen"/>erings</hi> ſevere Backſide Caſtigation, were Motives and Spurs to haſten and expedite the future performance of theſe two terrible ſcrewed Gunners. And yet here was the King to have been ſhot the very next moment (if poſſible) and all the while the very Commiſſions were not given out, till for ſome months after, for the rays<g ref="char:EOLhyphen"/>ing the Army ſo immediately neceſſary to proſecute the Blow after the Kings diſpatch. Now in the name of dul<g ref="char:EOLhyphen"/>neſs where were Our Witts when all this Hideous pieco of <hi>Apocrypha</hi> was currant Goſpel amongſt us.</p>
+            <p>And <hi>Lastly,</hi> To bring the Forreign Heroes into Play too, <hi>Oates</hi> ſwears that upon ſubduing of <hi>England</hi> in manner aforeſaid, the <hi>French</hi> were to be Lord of be Aſ<g ref="char:EOLhyphen"/>cendant, the Government of <hi>England</hi> being deſigned to have devolved into their hands. And pray mark the Riddle of the Buſineſs. Here was the <hi>Spaniſh</hi> King in the Year 78. lending no leſs a Body of Men then thirty
+<pb n="12" facs="tcp:95880:7"/>thouſand Fighting Pilgrims to help eſtabliſh the <hi>French</hi> King in the Monarchy of <hi>England</hi> at the very ſame time, that he was in actual Wars againſt him, and an utter Enemy to <hi>France,</hi> and ſo harraſt by the <hi>French,</hi> that he was courting allmoſt all <hi>Chriſtendom</hi> againſt him, and imploring all Foreighn Aides and Alliances to oppoſe him, yes, tho' he had already loſt ſo large, and ſo important a part of his own Country to him, and was not over able with his beſt ſtrength to defend the reſt from him, yet is this <hi>Spaniſh</hi> King forſooth (if <hi>Oates</hi> his Evidence will hold Water) ayding and aſſiſting the <hi>French</hi> King, with ſo vaſt a Succour, for the enlarging the very Victo<g ref="char:EOLhyphen"/>ries of his moſt hated Enemy by ſo prodigious an Ac<g ref="char:EOLhyphen"/>quiſition as the Imperial Diadem of <hi>England.</hi> Oh! The Miracles of a <hi>Romiſh</hi>-Plot, and the more Miraculous <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> ſtomach to digeſt it.</p>
+            <p>This, Reader, is the great and dreadful <hi>Popiſh</hi> Bug<g ref="char:EOLhyphen"/>bear, that once had Power to Fright three Kingdoms out of their Senſes, and this the Saviour of the Nation, that ſo many almoſt proſtrate Knees, and up lifted Hands, entertained and ſaluted with no leſs than <hi>Palm-Branches</hi> and <hi>Hoſannahs.</hi> The particularizing of all the nonſenſical Incongruitys, and Contradictions thro' the whole Legend of his Diſcovery, ſuch as his Swearing at one Tryal he was perverted to the <hi>Romiſh</hi> Religion; and at another, that he was ſtill a <hi>Proteſtant,</hi> and only play'd the Hypocrite amongſt the <hi>Papiſts</hi> to learn their Secrets, and to detect their Plots: And then his Swearing before the Council, that he knew not <hi>Coleman,</hi> when brought Face to Face before him; and yet at his Tryal, to Swear he was his moſt intimate Acquaintance, and Co-Plotter in the whole Buſineſs of the Four <hi>Iriſh</hi> Ruffins; and con<g ref="char:EOLhyphen"/>ſequently
+<pb n="13" facs="tcp:95880:7"/>was the main Evidence that Hanged him. But moſt of all, this his moſt egregious Perjury, in Swearing before the <hi>Houſe of Lords,</hi> that he had Diſcove<g ref="char:EOLhyphen"/>red his whole Plot, and had not one Perſon more to Ac<g ref="char:EOLhyphen"/>cuſe, than what he had named and impeach'd before; and yet after all this, to bring the very Queen into the Conſpiracy to Poyſon the King; a Princeſs of that im<g ref="char:EOLhyphen"/>maculate Virtue, and unexampled Piety into ſo damna<g ref="char:EOLhyphen"/>ble and helliſh a Deſign; that moſt Arrogant of Impo<g ref="char:EOLhyphen"/>ſtures and Villanies, as far from the very ſhadow of Truth, as the <hi>Monſter,</hi> that uttered it, is from Heaven. The particularizing I ſay of all the egregious and impu<g ref="char:EOLhyphen"/>dent Falſities, thro' his whole Fardle of Narratives is a Work too long and tedious. Beſides the Myſtery of Iniquity (thanks be to Heaven) is already made ſo tranparent almoſt to all Eyes and Underſtandings: that 'tis almoſt impoſſible that any thing but wilfull and hardned Blindneſs it ſelf, cannot plainly ſee through.</p>
+            <p>The only and laſt, tho feeble, Argument that his De<g ref="char:EOLhyphen"/>fenders (if 'tis poſſible he can have any left) can make for him, is to ſay. How is it poſſible that all his Diſcovery ſhould be ſuch errant Forgery and Impo<g ref="char:EOLhyphen"/>ſture, and yet be ſo univerſally believed, even by the moſt unanimous, and ſo long Aſſent of the greateſt and moſt ſenſible Men of the whole Kingdom? Why truly, were not an <hi>Engliſh</hi>-Mans Belief one of the greateſt Pro<g ref="char:EOLhyphen"/>digies ſince the Flood, this might be much wondred at. And truly it would appear almoſt ſtupendious, how al<g ref="char:EOLhyphen"/>moſt a whole Nation ſhould be ſo beſotted, had not wo<g ref="char:EOLhyphen"/>ful experience convinced, that truly this is but the ſecond Notorious Blot in our <hi>Engliſh</hi> Scutcheon. For let us but look back into the diſmal Fears and Jealoaſies in the firſt
+<pb n="14" facs="tcp:95880:8" rendition="simple:additions"/>King <hi>CHARLES</hi> his Raign, and we ſhall find the ſelf ſame Phantom govern'd then too. And juſt ſuch another as ſenſeleſs and as ridiculous imaginary Plot of ſetting up Po<g ref="char:EOLhyphen"/>pery, and Arbitrary Power, <hi>O Monſtrum Horendum!</hi> Blew Three Kingdoms into a Flame: and from the diſmal Effects of that Epidemical Lunacy, has left that ſtain upon the <hi>Engliſh</hi> Name and Reputation abroad in the World; that not whole Ages will waſh off. And truly we have no Excuſe left, why we ſhould be ſo groſly impoſed upon again, and run into a ſecond as damnable an Errour as the firſt, but frankly confeſſing, that the Frenzy of our Fathers is <hi>Hereditary,</hi> and nothing but their Madneſs running in our Bloods has been the cauſe of ſo enormous a Folly, the extravagant Apprehenſions of the Danger of Popery being that natural impefection that the generallity of <hi>Engliſh</hi> Men are as much born to, as men are to a Club-Foot, or a Hunch-Back, or any o<g ref="char:EOLhyphen"/>ther Deformity; and really, which they are almoſt as hardly to be cured of.</p>
+            <p>And therefore to draw to an End with our Swearing Maſter <hi>Titus,</hi> that Helliſh Incendiary, and chief <hi>Viſible</hi> Original of our ſo many Years Diſtractions: His Sen<g ref="char:EOLhyphen"/>tence, though it ſeem Severe, is much leſs than he de<g ref="char:EOLhyphen"/>ſerves; our <hi>Engliſh</hi> Law-makers, as never imagining the poſſibility of ſo unexampled an <hi>Offender,</hi> having pro<g ref="char:EOLhyphen"/>vided no Puniſhment equal to the Demerits of ſuch un<g ref="char:EOLhyphen"/>precedented Villany.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <p>Entred according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
